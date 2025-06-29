@@ -1,1 +1,2 @@
 # Predicting-the-Next-Position
+This project implements a real-time predictive tracking system for a moving object of a specific color, captured via a standard camera. The core of the system lies in its ability to forecast the object's future position by analyzing its current velocity and acceleration. To enhance prediction accuracy and minimize cumulative errors, a Proportional-Integral-Derivative (PID) control algorithm is integrated into the prediction loop, ensuring robust and stable tracking even with erratic movements.
