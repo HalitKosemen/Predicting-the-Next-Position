@@ -30,4 +30,7 @@ double Ki = 0.003;
 ![image url](https://github.com/HalitKosemen/Predicting-the-Next-Position/blob/f4ef7092d6b452efa20f67ead6250f17c37c440b/Pict22.JPG)
 
 
+If you want, you can add PID coefficients to the threat section, change the value of the coefficients in real time and observe the PID response graph.
+
+
 
