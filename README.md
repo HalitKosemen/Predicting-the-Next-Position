@@ -14,3 +14,4 @@ The algorithm's next location prediction results like this
 
 
 ![image url](https://github.com/HalitKosemen/Predicting-the-Next-Position/blob/d8c1e508e2ef4da843997bd5a1bea3d3d5031e60/Pict2.JPG)
+![image url](https://github.com/HalitKosemen/Predicting-the-Next-Position/blob/65e0e0ac685c2fe5c9efe7d4aae647cd2e4b782b/Pict1.JPG)
