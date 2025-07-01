@@ -25,3 +25,9 @@ double Kp = 1.2;
 double Kd = 0.015; 
 
 double Ki = 0.003;
+
+![image url](https://github.com/HalitKosemen/Predicting-the-Next-Position/blob/f4ef7092d6b452efa20f67ead6250f17c37c440b/Pict11.JPG)
+![image url](https://github.com/HalitKosemen/Predicting-the-Next-Position/blob/f4ef7092d6b452efa20f67ead6250f17c37c440b/Pict22.JPG)
+
+
+
