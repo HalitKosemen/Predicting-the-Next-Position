@@ -39,5 +39,5 @@ double Ki = 0.003;
 
 If you want, you can add PID coefficients to the threat section, change the value of the coefficients in real time and observe the PID response graph.
 
-[![Watch The Video](<p><iframe width="560" height="315" src="https://www.youtube.com/embed/27HRKS_gyGA" title="" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br>Powered by <a href="https://youtubeembedcode.com">youtube embed code generator</a> and <a href=“https://snabblan.io/">tsnabblån utan uc</a></iframe></p>)
+[![Watch the video](https://img.youtube.com/vi/27HRKS_gyGA/0.jpg)](https://www.youtube.com/watch?v=27HRKS_gyGA)
 
