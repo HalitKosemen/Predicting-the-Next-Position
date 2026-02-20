@@ -41,4 +41,4 @@ If you want, you can add PID coefficients to the threat section, change the valu
 
 ## 🎥 Demo Video (YouTube)
 
-[![Watch the video](https://www.youtube.com/watch?v=27HRKS_gyGA)
+[![Watch the video](https://img.youtube.com/vi/27HRKS_gyGA/0.jpg)](https://www.youtube.com/watch?v=27HRKS_gyGA)
