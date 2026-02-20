@@ -1,6 +1,21 @@
 # Predicting-the-Next-Position
+🎯 Real-Time Color-Based Object Tracking & Motion Prediction with PID Control<br><br>This project demonstrates a real-time object tracking system using OpenCV that detects a user-selected colored object, predicts its future position using velocity and acceleration, and refines the prediction using a PID controller.<br><br>The system is designed to be modular, extensible, and suitable for control systems experimentation, computer vision learning, and real-time tracking applications.<br><br><br>📌 Key Features<br><br>🎨 HSV-based color segmentation<br><br>🔍 Contour filtering for noise reduction<br><br>📍 Object center detection using image moments<br><br>🚀 Motion prediction using kinematic equations<br><br>🎯 PID control for prediction error correction<br><br>⌨️ Real-time color selection via multithreading<br><br>📄 Logging of real position and PID-corrected prediction<br><br>📷 Live camera visualization
 
-In this project, a specific color object is detected in real-time using a webcam feed with OpenCV, and the position of the object is calculated in each frame. Using the detected position, the object's velocity and acceleration are estimated, and based on classical physics equations, its next position is predicted. To minimize errors in this prediction, a PID control algorithm is applied, improving the accuracy of the estimation. Both the predicted and actual positions are saved to text files and later visualized using Python and Matplotlib for comparison. This allows for an analysis of the prediction accuracy. The project combines basic image processing, motion prediction, and control systems, serving as a learning-oriented application.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/halit-kosemen-62b9992b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halit.kosemen@hotmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sfdsfsdaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sfdsfsdaf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfdsfsdaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sfdsfsdaf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 If we take the PID values ​​like this:
 
